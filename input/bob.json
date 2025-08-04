@@ -1,0 +1,12 @@
+{
+  "did": "did:key:z6Mkf...abc123",
+  "ucan_permissions": [
+    "upload",
+    "edit",
+    "publish"
+  ],
+  "journalist_name": "Bob Example",
+  "auth_expiry": "2025-12-31T23:59:59Z",
+  "password_hash": "sha256:b578749cd60400e387f749dc6760809096c856f4263bffb91b88542ceed03818",
+  "salt": "46e2e98fb87d273f72b5c056aff96f29"
+}

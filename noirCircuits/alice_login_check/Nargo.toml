@@ -1,0 +1,6 @@
+[package]
+name = "alice_login_check"
+type = "bin"
+authors = [""]
+
+[dependencies]

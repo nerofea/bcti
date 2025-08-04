@@ -1,0 +1,11 @@
+{
+  "did": "did:key:z6Mkf...abc123",
+  "ucan_permissions": [
+    "upload",
+    "edit",
+    "publish"
+  ],
+  "journalist_name": "Alice Example",
+  "auth_expiry": "2025-12-31T23:59:59Z",
+  "password_hash": "sha256:cb824cd5fe4950a77e36776d275f8f7039682babd490d5da3bc8fd31f4c2254c"
+}

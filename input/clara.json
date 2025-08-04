@@ -1,0 +1,59 @@
+{
+  "did": "did:key:z6Mkf...abc123",
+  "wallet_address": "0x1234abcd5678efgh...",
+  "journalist_name": "Clara Example",
+  "email": "clara@example.com",
+  "password_hash": "sha256:d72e5f5fdc7ec76a451a5850bb08289e52a3af2c0230e0e1ee4f7121459d835b",
+  "auth_expiry": "2025-08-31T23:59:59Z",
+  "ucan_permissions": [
+    "upload",
+    "edit",
+    "publish"
+  ],
+  "bio": "Investigative journalist focused on transparency and blockchain.",
+  "credentials": [
+    "member:IFJ",
+    "verified:PressPass",
+    "award:Pulitzer2022"
+  ],
+  "portfolio_links": [
+    "https://clarareports.com/article1",
+    "https://clarareports.com/article2"
+  ],
+  "areas_of_expertise": [
+    "blockchain",
+    "cybersecurity",
+    "elections"
+  ],
+  "website": "https://clarareports.com",
+  "social_handles": {
+    "twitter": "@clara_journalist",
+    "mastodon": "@clara@journo.network",
+    "bluesky": "@clarareports.bsky.social"
+  },
+  "referrals": [
+    "did:key:z6Mkf...def456",
+    "did:key:z6Mkf...xyz789"
+  ],
+  "pgp_public_key": "-----BEGIN PGP PUBLIC KEY BLOCK-----\n...\n-----END PGP PUBLIC KEY BLOCK-----",
+  "region": "Balkans",
+  "languages_spoken": [
+    "English",
+    "Bulgarian",
+    "German"
+  ],
+  "preferred_topics": [
+    "privacy",
+    "digital rights",
+    "open governance"
+  ],
+  "is_freelancer": true,
+  "company_affiliation": [
+    {
+      "employer": "Global Journalism Group"
+    },
+    {
+      "publisher": "OpenNews Media"
+    }
+  ]
+}

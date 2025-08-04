@@ -1,0 +1,28 @@
+{
+    "name": "login-test",
+    "version": "0.1.0",
+    "private": true,
+    "type": "module",
+    "scripts": {
+        "start": "node server.mjs",
+        "dev": "nodemon server.mjs"
+    },
+    "dependencies": {
+        "@aztec/bb.js": "^1.2.1",
+        "@noir-lang/backend_barretenberg": "^0.36.0",
+        "@noir-lang/noir_js": "^1.0.0-beta.9",
+        "express": "^4.21.2"
+    },
+    "devDependencies": {
+        "esbuild": "^0.25.8",
+        "nodemon": "^3.0.0"
+    },
+    "engines": {
+        "node": ">=18"
+    },
+    "main": "compress_individual_journalist.js",
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "description": ""
+}

@@ -1,0 +1,11 @@
+node_modules/
+drafts/
+draftsold/
+fe/
+public/background.mp4
+public/style.css
+style copy.css
+*.zip
+*.map
+*.mp4
+noir/
